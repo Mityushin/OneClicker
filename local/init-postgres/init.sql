@@ -1,1 +1,1 @@
-create database test_app;
+create database clicker;
